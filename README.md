@@ -1,8 +1,12 @@
 # EX 8 : THREE DIMENSIONAL IMAGE PROJECTIONS
 
+NAME : MOHAMED NIZAMUDDIN A 
+
+REG NO ; 212224040194
+
 ## AIM :
     
-  To implement the projections in three dimensional image using a C coding.
+To implement the projections in three dimensional image using a C coding.
 
 
 ## ALGORITHM :
